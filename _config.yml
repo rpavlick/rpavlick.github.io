@@ -4,6 +4,5 @@ server_port: 4000
 pygments:    true
 markdown:    rdiscount
 
-permalink: /:year/:month/:day/:title
 
 exclude: ['README.md']
