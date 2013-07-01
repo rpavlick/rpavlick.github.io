@@ -2,7 +2,7 @@
 lsi:         false
 #server_port: 4000
 pygments:    true
-markdown:    rdiscount
+#markdown:    rdiscount
 permalink: pretty
 
 exclude: ['README.md']
