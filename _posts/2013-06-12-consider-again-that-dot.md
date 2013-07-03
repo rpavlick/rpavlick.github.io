@@ -26,7 +26,7 @@ I read this passage for the first time nearly 14 years ago. The words have stuck
 
 I owe a lot to Carl Sagan; his books and particularly his television series, Cosmos, were inspirations along the path that has led me to a career in science.
 
-That path has most recently led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change. 
+Most recently, that path has led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change. 
 
 My work is a small piece of an immense, but in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot.
 
