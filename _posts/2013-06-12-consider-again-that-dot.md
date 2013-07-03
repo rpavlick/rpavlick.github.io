@@ -21,7 +21,7 @@ From that distance, Earth is a few pale blue pixels set against an otherwise dar
 
 I read this passage for the first time nearly 14 years ago. The words have stuck with me ever since. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 I owe a lot to Carl Sagan, his books and particularly his television series, Cosmos, were inspirations along the path that has led me to a career in science.
 
