@@ -3,4 +3,11 @@ layout: post
 title: Consider again that dot
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse <a href="/">molestie consequat</a>, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph known as the Pale Blue Dot, contained in a book of the same name.
+
+In the late seventies, NASA launched the the Voyager 1 and 2 space probes to explore the outer planets. In 1990, having 
+completed its primary mission, NASA decided to turn Voyager 1 around to take one last picture of Earth. By that time, the spacecraft
+was well past the orbit of Pluto, over 40 times father from Earth than the Earth is from the Sun.
+
+From that distance, Earth is a few pale blue pixels set against an otherwise dark and empty sky. Sagan asks us to consider the philosophical implications of that image, and what it means for how we treat each other and the Earth.
+
