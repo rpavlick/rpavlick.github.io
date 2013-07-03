@@ -5,7 +5,7 @@ title: Consider again that dot
 
 Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph known as the Pale Blue Dot, contained in a book of the same name.
 
-In the late seventies, NASA launched the the Voyager 1 and 2 space probes to explore the outer planets. In 1990, having 
+In the late seventies, NASA launched the  Voyager 1 and 2 space probes to explore the outer planets. In 1990, having 
 completed its primary mission, NASA decided to turn Voyager 1 around to take one last picture of Earth. By that time, the spacecraft
 was well past the orbit of Pluto, over 40 times father from Earth than the Earth is from the Sun.
 
