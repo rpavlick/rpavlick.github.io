@@ -23,7 +23,7 @@ I read this passage for the first time nearly 14 years ago. The words have stuck
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">.</iframe>
 
-I owe a lot to Carl Sagan, his books and particularly his television series, Cosmos, were inspirations along the path that has led me to a career in science.
+I owe a lot to Carl Sagan; his books and particularly his television series, Cosmos, were inspirations along the path that has led me to a career in science.
 
 That path has most recently led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change. 
 
