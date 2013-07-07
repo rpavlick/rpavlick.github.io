@@ -1,5 +1,7 @@
 lsi:         false
 pygments:    true
 permalink: pretty
+future: false
+
 
 exclude: ['README.md']
