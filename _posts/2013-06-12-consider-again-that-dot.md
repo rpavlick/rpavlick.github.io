@@ -28,5 +28,5 @@ I owe a lot to Carl Sagan; his books and particularly his television series, Cos
 
 Most recently, that path has led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change. 
 
-My work is a small piece of an immense, but in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot.
+My work is a small piece of an immense but, in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot.
 
