@@ -5,12 +5,6 @@ title: Consider again that dot
 
 Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph known as the Pale Blue Dot.
 
-In the late seventies, NASA launched the Voyager space probes to explore the outer planets. In 1990, having 
-completed its primary mission, NASA decided to turn Voyager 1 around to take one last picture of Earth. By that time, the spacecraft
-was well past the orbit of Pluto, over 40 times farther from Earth than the Earth is from the Sun.
-
-From that distance, Earth is a few pale blue pixels set against an otherwise dark and empty sky. In one of his many books, Sagan asks us to consider the philosophical implications of that image, and what it means for how we treat each other and the Earth.
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">.</iframe>
 
 >From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there – on a mote of dust suspended in a sunbeam.
