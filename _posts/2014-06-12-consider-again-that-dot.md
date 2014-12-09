@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Consider again that dot
+unpublished: true
 ---
 
 Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph known as the Pale Blue Dot.
