@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Consider again that dot
-published: false
+published: true
 ---
 
-Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph known as the Pale Blue Dot.
+Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph of Earth taken by the Voyager I space probe from the chilly reaches of our Solar system, beyond the orbit of Pluto.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">.</iframe>
 
@@ -16,12 +16,13 @@ Welcome to my new blog. The name comes from Carl Sagan's reflections about a pho
 
 >-Carl Sagan, Pale Blue Dot: A Vision of the Human Future in Space, 1997 reprint, pp. xv–xvi
 
-I read this passage for the first time nearly 14 years ago. The words have stuck with me ever since. 
+I read this passage for the first time some 15 years ago. The words have stuck with me ever since. 
 
+I owe a lot to Carl Sagan; his books and particularly his television series, Cosmos, were inspirations along my path to my current career in science.
 
-I owe a lot to Carl Sagan; his books and particularly his television series, Cosmos, were inspirations along the path that has led me to a career in science.
+Most recently, that path has led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change by looking down at Earth from space. 
 
-Most recently, that path has led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change. 
+My work is a small piece of an immense but, in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot. 
 
-My work is a small piece of an immense but, in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot.
+I don't have grand plans for this blog. At the least, it will serve as a home for the links in the sidebar to the left. Beyond that, let's see.
 
