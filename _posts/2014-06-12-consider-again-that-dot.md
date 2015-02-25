@@ -4,7 +4,7 @@ title: Consider again that dot
 published: true
 ---
 
-Welcome to my new blog. The name comes from Carl Sagan's reflections about a photograph of the Earth taken by the Voyager I spaceprobe far from home in the chilly reaches of our Solar system, beyond the orbit of Pluto.
+Welcome to my new blog. The name comes from Carl Sagan's reflections on a photograph of the Earth taken by the Voyager I spaceprobe far from home in the chilly reaches of our Solar system, beyond the orbit of Pluto.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3i2y4sEQpRI?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">.</iframe>
 
