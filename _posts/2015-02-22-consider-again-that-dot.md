@@ -20,7 +20,7 @@ I read this passage for the first time some 15 years ago. The words have stuck w
 
 I owe a lot to Carl Sagan; his books and particularly his television series, Cosmos, were inspirations along my path to my current career in science.
 
-Most recently, that path has led me to a postdoc position at the NASA Jet Propulsion Laboratory, the birthplace of Voyager.  Among other things, I'm researching the interactions between biodiversity and climate change by looking down at Earth from space. 
+Most recently, that path has led me to my current position at the NASA Jet Propulsion Laboratory (JPL), the birthplace of the Voyagers. At JPL, I work on a number of things, but they all in someway relate to mapping and understanding how humanity is affecting Earth's biosphere.
 
 My work is a small piece of an immense but, in my opinion, solvable puzzle of how we will continue to survive and coexist on the pale blue dot. 
 
